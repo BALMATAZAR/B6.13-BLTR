@@ -1,0 +1,1 @@
+Чтобы выполнить пост-запрос, введите в консоли: http -f POST http://localhost:8080/albums year=**** album="" genre="" artist=""
